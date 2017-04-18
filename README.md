@@ -1,6 +1,4 @@
-# SwitchDatabaseRESTAPI
-
-**TODO: Add description**
+# Switch Database REST API Elixir client
 
 ## Installation
 
@@ -16,3 +14,7 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/switch_database_rest_api](https://hexdocs.pm/switch_database_rest_api).
+
+## Authors
+
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
